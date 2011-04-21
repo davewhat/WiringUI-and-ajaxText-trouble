@@ -1,0 +1,5 @@
+./sbt
+update
+jetty-run
+
+open web browser and visit http://localhost:8080/WiringUITrouble
